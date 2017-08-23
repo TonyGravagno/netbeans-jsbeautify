@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
 OpenIDE-Module: com.drewhamlett.jsbeautify
 OpenIDE-Module-Localizing-Bundle: com/drewhamlett/jsbeautify/Bundle.properties
-OpenIDE-Module-Specification-Version: 0.3
+OpenIDE-Module-Specification-Version: 0.4.2
 

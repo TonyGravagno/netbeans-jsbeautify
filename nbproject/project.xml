@@ -154,8 +154,8 @@
             </module-dependencies>
             <public-packages/>
             <class-path-extension>
-                <runtime-relative-path>ext/js.jar</runtime-relative-path>
-                <binary-origin>release/modules/ext/js.jar</binary-origin>
+                <runtime-relative-path>ext/commons-io-2.5.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/commons-io-2.5.jar</binary-origin>
             </class-path-extension>
         </data>
     </configuration>
